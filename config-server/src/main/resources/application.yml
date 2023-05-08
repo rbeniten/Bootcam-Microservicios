@@ -7,8 +7,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ismaelpe/bootCamp-ConfigServer.git
+          uri: https://github.com/rbeniten/Bootcam-Microservicios.git
         default-label: main
         search-paths:
-        - '*service*'
+          - '*service*'
+
 
